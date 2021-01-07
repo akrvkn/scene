@@ -1,0 +1,10 @@
+title: Сценические круизы по России
+company: Мостурфлот
+keywords: речные круизы, туры по России, отдых на теплоходе
+email: akrvkn@yandex.ru
+description: >
+  Сценические круизы по России
+baseurl: "/"
+exclude: [LICENSE.txt, README.md]
+link: "https://scene.superuser.su"
+markdown: kramdown
